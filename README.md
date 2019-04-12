@@ -1,5 +1,8 @@
 # Deep-Reinforcement-Learning-Algorithm-DQN
-The project combines reinforcement learning and deep learning.
+The project combines reinforcement learning and deep learning
+
+**University at Buffalo - CSE574: Introduction to Machine Learning**
+<p>Project 4</p>
 
 ### Overview
 The project combines reinforcement learning and deep learning. Your task is to teach the agent to navigate
