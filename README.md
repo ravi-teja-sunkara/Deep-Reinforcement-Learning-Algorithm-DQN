@@ -18,4 +18,4 @@ successes in applying deep learning to reinforcement learning.
 Python, Keras
 
 ### Atari Game Visual
-![Atari Game]
+![Atari Game](https://github.com/ravi-teja-sunkara/Deep-Reinforcement-Learning-Algorithm-DQN/blob/master/pong%20AI.jpg)
